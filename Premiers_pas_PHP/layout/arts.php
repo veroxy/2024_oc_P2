@@ -1,5 +1,4 @@
-<?php
-require_once(__DIR__ . '/../datas/oeuvres.php'); ?>
+<?php require_once(__DIR__ . '/../datas/oeuvres.php'); ?>
 <main>
     <div id="liste-oeuvres">
         <?php

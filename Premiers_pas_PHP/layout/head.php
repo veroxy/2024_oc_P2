@@ -1,4 +1,3 @@
-<?php $DIR = __DIR__?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"

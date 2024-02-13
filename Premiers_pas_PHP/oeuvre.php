@@ -1,10 +1,7 @@
 <!doctype html>
+<?php require_once(__DIR__ . '/datas/oeuvres.php'); ?>
 <html lang="fr">
-<?php
-include(__DIR__ . '/layout/head.php');
-require_once(__DIR__ . '/datas/oeuvres.php');
-
-?>
+<?php include(__DIR__ . '/layout/head.php'); ?>
 
 <body>
 
